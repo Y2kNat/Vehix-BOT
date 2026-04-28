@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <img src="LINK_IMAGEM" width="100%">
 </p>
