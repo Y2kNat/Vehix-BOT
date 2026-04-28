@@ -13,7 +13,7 @@
 
 <br>
 
-<h1 align="center">🚗 𝚅𝚎𝚑𝚒𝚡 • 𝙱𝙾𝚃</h1>
+<h1 align="center"> 𝚅𝚎𝚑𝚒𝚡 • 𝙱𝙾𝚃</h1>
 
 <p align="center">
   Sistema profissional de registro de veículos com validação de dados, moderação de placas e backup automático.
