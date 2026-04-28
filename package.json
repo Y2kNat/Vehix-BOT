@@ -1,0 +1,19 @@
+{
+  "name": "vehix-bot",
+  "version": "2.0.0",
+  "description": "Sistema profissional de registro de veículos para Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["discord", "bot", "vehicles", "registration"],
+  "author": "Vehix",
+  "license": "MIT"
+}
