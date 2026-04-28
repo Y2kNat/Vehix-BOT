@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.image2url.com/r2/default/images/1777333917440-ad7246de-48f5-4dd0-8470-fc5b647e090d.png" width="100%">
+  <img src="https://www.image2url.com/r2/default/images/1777336581170-5a340c32-43fa-4205-9afd-31c3e90c51d9.png" width="100%">
 </p>
 
 <p align="center">
